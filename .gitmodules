@@ -2,3 +2,7 @@
 	path = containers
 	url = https://github.com/ReproNim/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+[submodule "sourcedata/emotion-videos"]
+	path = sourcedata/emotion-videos
+	url = git@github.com:courtois-neuromod/emotion-videos
+	datalad-id = be554e46-3ca3-43a8-99c5-4b7a424fd499
